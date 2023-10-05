@@ -1,4 +1,4 @@
-module github.com/processout/grpc-go-pool
+module github.com/mojotx/grpc-go-pool
 
 go 1.21.1
 
