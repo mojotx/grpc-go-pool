@@ -1,5 +1,6 @@
 # grpc-go-pool
 
+![Go Coverage](https://raw.githubusercontent.com/mojotx/grpc-go-pool/master/coverage_badge.png)
 [![GoDoc](https://godoc.org/github.com/mojotx/grpc-go-pool?status.svg)](https://godoc.org/github.com/mojotx/grpc-go-pool)
 
 This package aims to provide an easy to use and lightweight GRPC connection pool.
